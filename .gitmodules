@@ -79,3 +79,30 @@
 [submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-3"]
 	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-3
 	url = https://github.com/Api2sem2021/2B-ads2020-Equipe-3.git
+[submodule "2020_1/Banco de Dados/2-BD2020-Equipe-1"]
+	path = 2020_1/Banco de Dados/2-BD2020-Equipe-1
+	url = https://github.com/Api2sem2021/2-BD2020-Equipe-1.git
+[submodule "2020_1/Banco de Dados/2-BD2020-Equipe-2"]
+	path = 2020_1/Banco de Dados/2-BD2020-Equipe-2
+	url = https://github.com/Api2sem2021/2-BD2020-Equipe-2.git
+[submodule "2020_1/Banco de Dados/2-bd2020-Equipe-6"]
+	path = 2020_1/Banco de Dados/2-bd2020-Equipe-6
+	url = https://github.com/Api2sem2021/2-bd2020-Equipe-6.git
+[submodule "2020_1/Banco de Dados/2-BD2020-Equipe-7"]
+	path = 2020_1/Banco de Dados/2-BD2020-Equipe-7
+	url = https://github.com/Api2sem2021/2-BD2020-Equipe-7.git
+[submodule "2020_1/Banco de Dados/OEP"]
+	path = 2020_1/Banco de Dados/OEP
+	url = https://gitlab.com/projeto-II/OEP.git
+[submodule "2020_1/Banco de Dados/5-BD2020-Equipe-1"]
+	path = 2020_1/Banco de Dados/5-BD2020-Equipe-1
+	url = https://github.com/Api2sem2021/5-BD2020-Equipe-1.git
+[submodule "2020_1/Banco de Dados/5-BD2020-Equipe-2"]
+	path = 2020_1/Banco de Dados/5-BD2020-Equipe-2
+	url = https://github.com/Api2sem2021/5-BD2020-Equipe-2.git
+[submodule "2020_1/Banco de Dados/5-BD2020-Equipe-3"]
+	path = 2020_1/Banco de Dados/5-BD2020-Equipe-3
+	url = https://github.com/Api2sem2021/5-BD2020-Equipe-3.git
+[submodule "2020_1/Banco de Dados/5-BD2020-Equipe-5"]
+	path = 2020_1/Banco de Dados/5-BD2020-Equipe-5
+	url = https://github.com/Api2sem2021/5-BD2020-Equipe-5.git
