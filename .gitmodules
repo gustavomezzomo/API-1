@@ -64,3 +64,15 @@
 [submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma A/6-ADS2020-Equipe-5"]
 	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma A/6-ADS2020-Equipe-5
 	url = https://github.com/Api2sem2021/6-ADS2020-Equipe-5.git
+[submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-iPET"]
+	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-iPET
+	url = https://github.com/Api2sem2021/1-ads2020-Equipe-iPET.git
+[submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-JeRso"]
+	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-JeRso
+	url = https://github.com/Api2sem2021/1-ads2020-Equipe-JeRso.git
+[submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-Home-Solutions"]
+	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/1-ads2020-Equipe-Home-Solutions
+	url = https://github.com/Api2sem2021/1-ads2020-Equipe-Home-Solutions.git
+[submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-1"]
+	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-1
+	url = https://github.com/Api2sem2021/2B-ads2020-Equipe-1.git
