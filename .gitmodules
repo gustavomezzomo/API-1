@@ -76,3 +76,6 @@
 [submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-1"]
 	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-1
 	url = https://github.com/Api2sem2021/2B-ads2020-Equipe-1.git
+[submodule "2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-3"]
+	path = 2020_1/Analise e Desenvolvimento de Sistemas/Turma B/2B-ads2020-Equipe-3
+	url = https://github.com/Api2sem2021/2B-ads2020-Equipe-3.git
